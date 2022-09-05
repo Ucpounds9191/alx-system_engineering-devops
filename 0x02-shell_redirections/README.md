@@ -1,1 +1,1 @@
-file1
+how to input commands
